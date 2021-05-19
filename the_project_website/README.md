@@ -45,9 +45,9 @@ Joe Stackhouse
 -- Project 1 student checklist: 
 ----------------------------------------------------------
 1. done. Profile image size = 74KB <= 400KB, Background image size = 240KB <= 1MB
-2. 
-3. 
-4. 
+2. done.
+3. done.
+4. todo: fix github link, needs link to repository.
 5. 
 6. 
 7. 
