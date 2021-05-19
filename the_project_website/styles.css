@@ -102,6 +102,20 @@ header .profile-image:hover {
   border-color: #ff99ff;
 }
 
+.card-experience {
+  margin: 5px;
+  padding: 10px;
+  max-width: 600px;
+  text-align: left;
+  background: rgb(255, 232, 198);
+  border-bottom: 4px solid #ccc;
+  border-radius: 6px;
+  transition: all .5s;
+}
+.card-experience:hover {
+  border-color: #00692c;
+}
+
 ul.skills {
   padding: 0;
   text-align: center;

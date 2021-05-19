@@ -48,8 +48,8 @@ Joe Stackhouse
 2. done.
 3. done.
 4. todo: fix github link, needs link to repository.
-5. 
-6. 
+5. done.
+6. done.
 7. 
 8. 
 9. 
