@@ -87,22 +87,22 @@ Always mention in the comments of your submission or any resubmission, what grad
 1. done. Profile image size = 74KB <= 400KB, Background image size = 240KB <= 1MB
 2. done.
 3. done.
-4. todo: fix github link, needs link to repository.
+4. done.
 5. done.
 6. done.
 7. done.
 8. done.  
-9. 
-10. 
+9. done.  sent message: Hello, I'm learning web programming.
+10. n/a
 Note: 
 ----------------------------------------------------------
 -- Extra Credit checklist: 
 ----------------------------------------------------------
-1.
-2.
-3.
-4.
-5.
+1. n/a
+2. n/a
+3. n/a
+4. n/a
+5. n/a
 Note:
 
 
