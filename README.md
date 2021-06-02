@@ -40,6 +40,46 @@ Joe Stackhouse
 
 10. If you're having trouble with this project, make sure you take a look at this great study guide:
 
+Note: A good practice is to check your project for cross browser compatibility. Making sure that it looks and functions correctly in multiple (at least three) browsers is an important part of being a top-notch developer. If you want, leave a comment to the project reviewer about which browser(s) the project was checked to ensure they are seeing things as you have designed them.
+
+Some browser options:
+
+Google Chrome
+Mozilla Firefox
+Internet Explorer/Edge
+Safari
+
+
+Extra Credit:
+1. Create at least one more page in addition to the Home and Experience pages, like a "Hobbies" or "Contact" page for example.
+  -You can write custom CSS for any new pages, just make sure you use style.css for all pages.
+
+2. Edit the styling of the profile photo’s CSS properties. Pick at least one of the following properties to change:
+  -border
+  -border-radius
+  -transition
+  -transformation
+
+3. Add more photos and imagery to the page
+
+4. Add more text to the page such as a list of your hobbies.
+
+5. Make the HTML more semantic.
+  -Overall index.html uses semantic markup, however, there are several opportunities to enhance some divs with more descriptive tag names:
+    --<div class="main-nav">
+    --<div class="card">
+
+NOTE: Getting an "Exceed Expectations" grade.
+
+See the rubric in the "How You'll Be Graded" tab above for details on what you need to receive an "Exceed Expectations" grade.
+Passing grades are final. If you try for the "Exceeds Expectations" grade, but miss an item and receive a “Meets Expectations” grade, you won’t get a second chance. Exceptions can be made for items that have been misgraded in review.
+
+Always mention in the comments of your submission or any resubmission, what grade you are going for. Some students want their project to be rejected if they do not meet all Exceeds Expectations Requirements, others will try for all the "exceeds" requirement but do not mind if they pass with a Meets Expectations grade. Leaving a comment in your submission will help the reviewer understand which grade you are specifically going for
+
+
+
+
+
 
 ----------------------------------------------------------
 -- Project 1 student checklist: 
@@ -50,7 +90,19 @@ Joe Stackhouse
 4. todo: fix github link, needs link to repository.
 5. done.
 6. done.
-7. 
-8. 
+7. done.
+8. done.  
 9. 
 10. 
+Note: 
+----------------------------------------------------------
+-- Extra Credit checklist: 
+----------------------------------------------------------
+1.
+2.
+3.
+4.
+5.
+Note:
+
+
